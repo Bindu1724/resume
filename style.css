@@ -46,6 +46,7 @@ hr {
 h1, h2, h3 {
     font-weight: 500;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 #mainLeft {
